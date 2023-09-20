@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Common.DTOs.BusinessDayDto" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>DTOs\BusinessDayDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.ClientDto" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAgAAAAAAAAAAAAAACAAAAIQAAAAg=</HashCode>
+      <FileName>DTOs\ClientDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.CollectingPointDto" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAAQAIAAAQAAAAAAAAKAAEAAAAAAAA=</HashCode>
+      <FileName>DTOs\CollectingPointDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.PackageInCollectingPoint" Collapsed="true">
+    <Position X="7" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\CollectingPointDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.EmployeeDto" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAgAAAIAAAAIAAAoIAAAQAgACAAACIQACAAg=</HashCode>
+      <FileName>DTOs\EmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.PackageInEmployee" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\EmployeeDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.OrderDto" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAEAAAAAA=</HashCode>
+      <FileName>DTOs\OrderDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.PackageDto" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAGAAABAAgAAAAAAgEAAAAhAAAAAAgAEACAIAAAAAAQ=</HashCode>
+      <FileName>DTOs\PackageDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.PartialDeliveryDto" Collapsed="true">
+    <Position X="4.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAIAAAAQAABCAIAAAAIBAAAAAACAAA=</HashCode>
+      <FileName>DTOs\PartialDeliveryDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DTOs.PartialDeliveryToPackageDto" Collapsed="true">
+    <Position X="7" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>DTOs\PartialDeliveryToPackageDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

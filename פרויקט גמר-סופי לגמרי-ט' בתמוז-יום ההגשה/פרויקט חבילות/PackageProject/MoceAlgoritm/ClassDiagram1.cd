@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Algoritm.Interation">
+    <Position X="7.75" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQRAAQAAAAAAACAAQAAAAAgAAAACAABBEAA=</HashCode>
+      <FileName>Interation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algoritm.MainAlgorithm">
+    <Position X="11.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgCAAgBSQACAAAAAAAAAACAgABQAgIAAUAAgKBIBQ=</HashCode>
+      <FileName>MainAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algoritm.OptionToEmployee">
+    <Position X="8.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OptionToEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algoritm.OptionMax">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAACAIAAAAAA=</HashCode>
+      <FileName>OptionToEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algoritm.GoogleMapsApi">
+    <Position X="5.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAAAAAAAAAAASAAAIAEAAAA=</HashCode>
+      <FileName>GoogleMaps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Algoritm.Type">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoogleMaps.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

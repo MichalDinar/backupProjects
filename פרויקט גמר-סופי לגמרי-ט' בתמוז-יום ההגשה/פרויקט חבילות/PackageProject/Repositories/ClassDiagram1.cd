@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Repositories.Entities.BusinessDay" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAA=</HashCode>
+      <FileName>Entities\BusinessDay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.Client" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAIAAgAAAAAAAAAAAAAACAAAAIQAAAAg=</HashCode>
+      <FileName>Entities\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.CollectingPoint" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAQAIAAAAAAAAAAAAKAAEAAEAAAAA=</HashCode>
+      <FileName>Entities\CollectingPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.Employee" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAgAAAAAAAAIAAAAIAAAAAAACAAAAIUACAAg=</HashCode>
+      <FileName>Entities\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.Order" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAAAAAAQAAEAAAAAAAABAAAAEAAAAAA=</HashCode>
+      <FileName>Entities\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.Package" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAFAAAAAAAAAgEAAAABBAAAAAAAIACAIBAAAAAQ=</HashCode>
+      <FileName>Entities\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.PartialDelivery" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAIAAAAQAEBCAIAAAAIBAAAEAACAAA=</HashCode>
+      <FileName>Entities\PartialDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Entities.PartialDeliveryToPackage" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAQAAAAAAAAAAIAAAQAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\PartialDeliveryToPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Repositories.BusinessDaysRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\BusinessDaysRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.ClientsRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\ClientsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.CollectingPointRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\CollectingPointRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.EmployeesRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\EmployeesRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.OrdersRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\OrdersRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.PackagesRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\PackagesRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.PartialDeliveryRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\PartialDeliveryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositories.Repositories.PartialDeliveryToPackageRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Repositories\PartialDeliveryToPackageRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Repositories.Interface.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAAIIA=</HashCode>
+      <FileName>Interface\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
